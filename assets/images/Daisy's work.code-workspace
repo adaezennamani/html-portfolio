@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Daisy02"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "4.3+HTML+Portfolio+Project",
+		"liveServer.settings.port": 5501
+	}
+}
